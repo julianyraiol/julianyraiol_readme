@@ -6,11 +6,11 @@ Sou pós-graduanda em Ciência de Dados pela Universidade do Estado do Amazonas 
 
 :earth_americas: Embaixadora de Inovação Cívica da Open Knowledge Brasil
 
-:cat: Organizo o @pyladiesmanaus e @pydatamanaus
-
-⚡ Fun fact: Nas horas vagas, gosta muito de ler livros, dançar e ouvir vários tipos de música.
+:cat: Organizo o [PyLadies Manaus](https://github.com/pyladiesmanaus) e o [PyData Manaus](https://github.com/pydatamanaus)
 
 😄 Pronomes: Ela/Dela (She/Her)
+
+⚡ Fun fact: Nas horas vagas, gosta muito de ler livros, dançar e ouvir vários tipos de música.
 
 <!--
 **julianyraiol/julianyraiol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
