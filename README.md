@@ -1,10 +1,10 @@
-### oooii 
+### Oooii <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
 Sou pós-graduanda em Ciência de Dados pela Universidade do Estado do Amazonas (UEA) e bacharela em Sistemas de Informação pela mesma instituição. Atualmente trabalho como Desenvolvedora Backend no Instituto Triad. Tenho interesse nas áreas de Engenharia de Dados, Desenvolvimento de Software e Comunidades dentro da área de tecnologia. Acredito que o conhecimento é transformador e, por isso, deve ser de fácil acesso. 
 
 ### Eu também sou :woman_technologist:	
 
-:earth_americas: Embaixadora de Inovação Cívica da Open Knowledge Brasil
+:earth_americas: Embaixadora de Inovação Cívica na Open Knowledge Brasil
 
 :cat: Organizo o [PyLadies Manaus](https://github.com/pyladiesmanaus) e o [PyData Manaus](https://github.com/pydatamanaus)
 
