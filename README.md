@@ -9,7 +9,7 @@ Pronomes: Ela/Dela (She/Her)
 
 ### Eu também sou :woman_technologist:	
 
-:earth_americas: Embaixadora de Inovação Cívica na Open Knowledge Brasil
+:earth_americas: Embaixadora de Inovação Cívica na [Open Knowledge Brasil](https://github.com/okfn-brasil)
 
 :cat: Organizo o [PyLadies Manaus](https://github.com/pyladiesmanaus) e o [PyData Manaus](https://github.com/pydatamanaus)
 
