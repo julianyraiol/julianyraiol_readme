@@ -1,9 +1,16 @@
-### oooii 👋
+### oooii 
 
-É pós-graduanda em Ciência de Dados pela Universidade do Estado do Amazonas (UEA) e bacharela em Sistemas de Informação pela mesma instituição. Atualmente trabalha como Desenvolvedora Backend no Instituto Triad. Além de ser organizadora do PyLadies e do PyData Manaus, também é uma das Embaixadoras de Inovação Cívica da Open Knowledge Brasil. Adora compartilhar o que aprende e nutre um amor intenso pela área de computação. Acredita que o conhecimento é transformador e, por isso, deve ser de fácil acesso. Possui interesse nas áreas de Engenharia de Dados, Desenvolvimento de Software e Comunidades dentro da área de tecnologia.
+Sou pós-graduanda em Ciência de Dados pela Universidade do Estado do Amazonas (UEA) e bacharela em Sistemas de Informação pela mesma instituição. Atualmente trabalho como Desenvolvedora Backend no Instituto Triad. Tenho interesse nas áreas de Engenharia de Dados, Desenvolvimento de Software e Comunidades dentro da área de tecnologia. Acredito que o conhecimento é transformador e, por isso, deve ser de fácil acesso. 
 
-- ⚡ Fun fact: Nas horas vagas, gosta muito de ler livros, dançar e ouvir vários tipos de música.
-- 😄 Pronomes: Ela/Dela (She/Her)
+### Eu também sou :woman_technologist:	
+
+:earth_americas: Embaixadora de Inovação Cívica da Open Knowledge Brasil
+
+:cat: Organizo o @pyladiesmanaus e @pydatamanaus
+
+⚡ Fun fact: Nas horas vagas, gosta muito de ler livros, dançar e ouvir vários tipos de música.
+
+😄 Pronomes: Ela/Dela (She/Her)
 
 <!--
 **julianyraiol/julianyraiol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
