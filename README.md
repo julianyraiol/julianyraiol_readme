@@ -1,6 +1,6 @@
 ### Oooii <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
-Sou pós-graduanda em Ciência de Dados pela Universidade do Estado do Amazonas (UEA) e bacharela em Sistemas de Informação pela mesma instituição. Atualmente trabalho como Desenvolvedora Backend no Instituto Triad. Tenho interesse nas áreas de Engenharia de Dados, Desenvolvimento de Software e Comunidades dentro da área de tecnologia. Acredito que o conhecimento é transformador e, por isso, deve ser de fácil acesso. 
+Sou pós-graduanda em Ciência de Dados pela Universidade do Estado do Amazonas (UEA) e bacharela em Sistemas de Informação pela mesma instituição. Atualmente trabalho como Engenheira de Software no Instituto de Pesquisas Eldorado. Tenho interesse nas áreas de Engenharia de Dados, Desenvolvimento de Software e Comunidades dentro da área de tecnologia. Acredito que o conhecimento é transformador e, por isso, deve ser de fácil acesso. 
 
 Pronomes: Ela/Dela (She/Her)
 
