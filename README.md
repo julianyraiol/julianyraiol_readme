@@ -7,6 +7,7 @@ Pronomes: Ela/Dela (She/Her)
 
 ---
 
+<!--
 ### Eu também sou :woman_technologist:	
 
 :earth_americas: Embaixadora de Inovação Cívica na [Open Knowledge Brasil](https://github.com/okfn-brasil)
@@ -14,6 +15,7 @@ Pronomes: Ela/Dela (She/Her)
 :cat: Organizo o [PyLadies Manaus](https://github.com/pyladiesmanaus) e o [PyData Manaus](https://github.com/pydatamanaus)
 
 ---
+-->
 
 ⚡ Fun fact: Nas horas vagas, gosto muito de ler livros, dançar e ouvir vários tipos de música.
 
