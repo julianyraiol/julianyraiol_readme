@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🏢 Atualmente trabalho no **Instituto de Pesquisas Eldorado**
-- ⚙️ Possuo experiência com `Análise de Dados`, `Web Scraping`, `Unity`, `Unity` e `Desenvolvimento Backend`
+- 🏢 Atualmente trabalho como Engenheira de Software no **Instituto de Pesquisas Eldorado**
 - 🌍 Faço parte das comunidades **PyLadies Manaus** e **PyData Manaus**
 - 💬 Tenho interesse em **Engenharia de Dados**, **Computação Teórica** e **Comunidades Open Source**
 
