@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- :woman_technologist: Atualmente trabalho como Engenheira de Software no **Instituto de Pesquisas Eldorado**
+- :woman_technologist: Atualmente trabalho como Engenheira de Software
 - :game_die: Faço pós-graduação em Ciência de Dados na **Universidade do Estado do Amazonas**
 - :snake: Organizo as comunidades **PyLadies Manaus** e **PyData Manaus**
-- :star2:	Tenho interesse em **Engenharia de Dados**, **Computação Teórica** e **Comunidades Open Source**
+- :star2:	Tenho interesse em **Engenharia de Dados**, **Computação Teórica** e **Open Source**
 
 
 ---
